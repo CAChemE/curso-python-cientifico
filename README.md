@@ -4,10 +4,10 @@
 
 __Curso de iniciación a Python celebrado en la Escuela Politécnica Superior de la Universidad de Alicante__
 
-__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.ipython.org/github/Pybonacci/curso-python-alicante-2015/blob/master/Notebooks/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
+__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.ipython.org/github/CAChemE/curso-python-cientifico/blob/master/Notebooks/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
 
 __Si sólo quieres echar un vistazo__, puedes visualizar los notebooks de cada clase en:
-http://nbviewer.ipython.org/github/AeroPython/Curso_AeroPython/tree/master/Notebooks/
+http://nbviewer.ipython.org/github/CAChemE/curso-python-cientifico/tree/master/Notebooks/
 
 Este curso está basado en la segunda edición del [curso de AeroPython de la
 Universidad Politécnica de Madrid](https://github.com/AeroPython/Curso_AeroPython/tree/v2.0.1).
